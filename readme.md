@@ -38,7 +38,7 @@ Current Capabilities (as of this version)
 
 - Run `python main.py` with no arguments to enter a loop where you can type multiple prompts one after another.
 
-🛠️ **How It Works**  
+**How It Works**  
 Workflow at a high level:
 
 ```
